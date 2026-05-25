@@ -25,6 +25,9 @@
 - [SecurityWeek](https://feeds.feedburner.com/securityweek)
 - [The Hacker News](https://feeds.feedburner.com/TheHackersNews)
 - [The Record](https://therecord.media/feed/)
+- [The Hackread](https://hackread.com/feed/)
+- [SCWorld](https://www.scworld.com/feed/topic/latest)
+- [BBC Tech](https://feeds.bbci.co.uk/news/technology)
 
 ## Vulnerability Reports
 - [CVEfeed.io RSS](https://cvefeed.io/rssfeed/latest.xml)
